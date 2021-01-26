@@ -1,4 +1,5 @@
 //Nathan Li - LCD Game - 10/16/2020
+//Adapted from https://www.instructables.com/Arduino-LCD-Game/
 
 #include <LiquidCrystal.h>
 
