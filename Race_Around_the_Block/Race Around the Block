@@ -1,4 +1,4 @@
-//Nathan Li - Outline the Wall (Right Side) - 12/14/2020
+//Nathan Li - Race Around the Block (Right Side) - 12/14/2020
 #include <MeMCore.h>
 
 MeUltrasonicSensor ultraSensor(PORT_3); /* Ultrasonic module can ONLY be connected to port 3, 4, 6, 7, 8 of base shield. */
